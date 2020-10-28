@@ -8,16 +8,14 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
+          Hello! This is my personal web page hosted in GitHub Pages.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          As you can see, it uses react and is still under development. 
+        </p>
+        <p>
+          See you soon!
+        </p>
       </header>
     </div>
   );
